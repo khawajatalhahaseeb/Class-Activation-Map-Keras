@@ -8,3 +8,9 @@ In this example, I am using Keras to implement CAM because Keras is easy to use 
 
 ### Class Activation Map:
 ![output_sheep](https://user-images.githubusercontent.com/85954399/122110118-9d267b00-ce37-11eb-9652-81893acb455e.jpeg)
+
+### Reference
+- https://arxiv.org/abs/1409.1556
+- https://keras.io/api/applications/vgg/#vgg16-function
+- https://en.wikipedia.org/wiki/ImageNet
+- http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf
